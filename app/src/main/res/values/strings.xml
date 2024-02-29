@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name="email">Email</string>
+    <string name="Extension">Extension</string>
+    <string name="Department">Department</string>
+    <string name="Supervisor">Supervisor</string>
+    <string name="DirectReports">Direct Reports</string>
 </resources>
